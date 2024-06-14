@@ -1,2 +1,2 @@
-FROM kibana:7.5.0
+FROM kibana:7.17.22
 ADD ./kibana.yml /usr/share/kibana/config/kibana.yml
